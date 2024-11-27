@@ -28,7 +28,9 @@ const Banner = () => {
                         ever since the
                     </p>
 
+                    <div className="flex justify-center w-full lg:justify-start">
                     <button className="btn btn-outline btn-info">Get Started</button>
+                    </div>
                 </section>
             </div>
         </header>
